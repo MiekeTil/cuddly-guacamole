@@ -1,0 +1,50 @@
+.container-sm {
+  padding: 0;
+}
+
+.navbar-brand.custom {
+  font-family: "Cedarville Cursive", cursive;
+  color: #a7beae;
+}
+
+.navbar.bg-dark {
+  background-color: #b85042 !important;
+}
+
+.nav-link {
+  color: #e7e8d1;
+}
+
+.row-cols-3 .col img {
+  margin: 10px;
+}
+
+.btn {
+  display: block;
+  border-radius: 0;
+}
+
+input,
+textarea {
+  margin-bottom: 10px;
+}
+
+footer {
+  min-height: 200px;
+  color: #e7e8d1;
+  background-color: #b85042;
+  padding: 20px;
+}
+
+.footer-link:link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-link:visited {
+  color: #e7e8d1;
+}
+
+.footer-link:hover {
+  color: #a7beae;
+}
